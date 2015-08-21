@@ -1,5 +1,5 @@
 require 'switch_eapass'
-require './eamusement'
+require 'switch_eapass/eamusement'
 require 'thor'
 
 module SwitchEapass
