@@ -1,5 +1,5 @@
 ## switch_eapass
-This gem provides command that switching reference of a number of e-Amusement passes.
+This gem provides command that switching reference in a number of e-Amusement passes.
 
 ## Installation
 You can get from rubygems.
