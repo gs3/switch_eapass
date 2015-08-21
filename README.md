@@ -10,7 +10,7 @@ $ gem install switch_eapass
 
 ## Usage
 
-Execute `switch`. command with e-Amusement card number you want to switch as a argument.
+Execute `switch` command with e-Amusement card number you want to switch as a argument.
 
 
 ```sh
