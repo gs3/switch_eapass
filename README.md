@@ -1,3 +1,5 @@
+# ※ This gem is now unavailable, Sorry.
+
 ## switch_eapass
 This gem provides command that switching reference in a number of e-Amusement passes.
 
